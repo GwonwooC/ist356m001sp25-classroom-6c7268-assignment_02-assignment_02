@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-I struggled a lot at the beginning, because the instruction (comment) wasn't clear enough for me to start writing code. But while doing this assignement, I could practice data.split and for loop.
+I struggled a lot at the beginning, because the instruction (comment) wasn't clear enough for me to start writing code. But while doing this assignement, I could practice data.split and for loop. 
+
+testing submission
